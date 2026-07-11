@@ -126,7 +126,7 @@ Each step is independently runnable via the CLI:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/crowdwisdom_quant.git
+git clone https://github.com/Samit8804/trading-master.git
 cd crowdwisdom_quant
 
 # 2. Create a virtual environment (recommended)
