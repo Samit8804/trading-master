@@ -1,0 +1,31 @@
+# CrowdWisdomQuant — default configuration
+# Override any value via CROWDWISDOM_* environment variables.
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  database_dir: data/database
+  reports_dir: reports
+  visualization_dir: visualization
+  experiments_dir: experiments
+database:
+  name: crowdwisdom.db
+scraper:
+  lookback_days: 180
+preprocessing:
+  trade_group_ms: 500
+validation:
+  train_days: 30
+  test_days: 7
+  expanding_window: false
+model:
+  defaults:
+    n_estimators: 200
+    max_depth: 6
+    learning_rate: 0.05
+    subsample: 0.8
+    colsample_bytree: 0.8
+random_seed: 42
+logging:
+  level: INFO
+  format: structured
+  file: logs/crowdwisdom.log

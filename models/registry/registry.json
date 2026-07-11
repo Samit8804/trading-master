@@ -1,0 +1,326 @@
+[
+  {
+    "version": "20260711_060845_90445",
+    "timestamp": "2026-07-11T13:08:45.906244+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_060845_90445\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_060845_91118",
+    "timestamp": "2026-07-11T13:08:45.912995+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_060845_91118\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_060846_03479",
+    "timestamp": "2026-07-11T13:08:46.036424+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_060846_03479\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_060846_03830",
+    "timestamp": "2026-07-11T13:08:46.040036+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_060846_03830\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_061745_38939",
+    "timestamp": "2026-07-11T13:17:45.445081+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_061745_38939\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_061745_60505",
+    "timestamp": "2026-07-11T13:17:45.612447+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_061745_60505\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_061745_66068",
+    "timestamp": "2026-07-11T13:17:45.664513+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_061745_66068\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_061745_75156",
+    "timestamp": "2026-07-11T13:17:45.754923+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_061745_75156\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063121_71249",
+    "timestamp": "2026-07-11T13:31:21.715776+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063121_71249\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063121_76844",
+    "timestamp": "2026-07-11T13:31:21.771689+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063121_76844\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063121_77511",
+    "timestamp": "2026-07-11T13:31:21.779780+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063121_77511\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063121_81719",
+    "timestamp": "2026-07-11T13:31:21.820244+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063121_81719\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063233_79824",
+    "timestamp": "2026-07-11T13:32:33.803585+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063233_79824\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063233_84799",
+    "timestamp": "2026-07-11T13:32:33.850678+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063233_84799\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063233_85752",
+    "timestamp": "2026-07-11T13:32:33.860465+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063233_85752\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063233_89893",
+    "timestamp": "2026-07-11T13:32:33.903436+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063233_89893\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063556_82252",
+    "timestamp": "2026-07-11T13:35:56.825475+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063556_82252\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063556_87358",
+    "timestamp": "2026-07-11T13:35:56.878967+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063556_87358\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063556_88533",
+    "timestamp": "2026-07-11T13:35:56.887946+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063556_88533\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063556_92448",
+    "timestamp": "2026-07-11T13:35:56.929390+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063556_92448\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063916_90961",
+    "timestamp": "2026-07-11T13:39:16.911992+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063916_90961\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063916_94582",
+    "timestamp": "2026-07-11T13:39:16.948432+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063916_94582\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063916_95392",
+    "timestamp": "2026-07-11T13:39:16.956415+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063916_95392\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_063916_98322",
+    "timestamp": "2026-07-11T13:39:16.985317+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_063916_98322\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_065208_48996",
+    "timestamp": "2026-07-11T13:52:08.493965+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_065208_48996\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_065208_53116",
+    "timestamp": "2026-07-11T13:52:08.534111+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_065208_53116\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_065208_54302",
+    "timestamp": "2026-07-11T13:52:08.546003+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_065208_54302\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_065208_57495",
+    "timestamp": "2026-07-11T13:52:08.578551+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_065208_57495\\artifacts\\model.joblib"
+  }
+]
