@@ -322,5 +322,53 @@
     "feature_names": [],
     "tags": {},
     "artifact_path": "E:\\TradeStrategy Ai\\crowdwisdom_quant\\models\\registry\\20260711_065208_57495\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_092018_99197",
+    "timestamp": "2026-07-11T16:20:18.995038+00:00",
+    "metrics": {
+      "rmse": 10.5,
+      "r2": -0.05
+    },
+    "params": {
+      "max_depth": 4
+    },
+    "feature_names": [
+      "feat1",
+      "feat2"
+    ],
+    "tags": {},
+    "artifact_path": "C:\\Users\\HP\\trading-master\\crowdwisdom_quant\\models\\registry\\20260711_092018_99197\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_092019_02539",
+    "timestamp": "2026-07-11T16:20:19.029016+00:00",
+    "metrics": {
+      "rmse": 10.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "C:\\Users\\HP\\trading-master\\crowdwisdom_quant\\models\\registry\\20260711_092019_02539\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_092019_03404",
+    "timestamp": "2026-07-11T16:20:19.037037+00:00",
+    "metrics": {
+      "rmse": 9.0
+    },
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "C:\\Users\\HP\\trading-master\\crowdwisdom_quant\\models\\registry\\20260711_092019_03404\\artifacts\\model.joblib"
+  },
+  {
+    "version": "20260711_092019_06286",
+    "timestamp": "2026-07-11T16:20:19.065809+00:00",
+    "metrics": {},
+    "params": {},
+    "feature_names": [],
+    "tags": {},
+    "artifact_path": "C:\\Users\\HP\\trading-master\\crowdwisdom_quant\\models\\registry\\20260711_092019_06286\\artifacts\\model.joblib"
   }
 ]
